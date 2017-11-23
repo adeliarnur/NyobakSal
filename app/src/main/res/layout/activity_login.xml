@@ -1,0 +1,76 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/backgroundtidakpolosyeay"
+    tools:context="com.example.asus.nyobaksal.LoginActivity">
+
+    <TextView
+        android:layout_width="340dp"
+        android:layout_height="40dp"
+        android:id="@+id/email"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="140dp"
+        android:text="Email"
+        android:textSize="20dp"/>
+    <view
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+    <!-- Login progress -->
+
+    <TextView
+        android:id="@+id/pass"
+        android:layout_width="340dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="Password"
+        android:textSize="20dp" />
+    <view
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+    <ImageButton
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:background="#c3dae2"
+        android:src="@drawable/jasbfdqub" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="bottom|center"
+        android:layout_weight="1">
+        <ImageButton
+            android:layout_weight="4"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/homeyeay" />
+        <ImageButton
+            android:layout_weight="4"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/shoppingcartyeay"/>
+        <ImageButton
+            android:layout_weight="4"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/searchiconyeayrevisilagilagi"/>
+        <ImageButton
+            android:layout_weight="4"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/accountyeay"/>
+    </LinearLayout>
+
+
+</LinearLayout>
