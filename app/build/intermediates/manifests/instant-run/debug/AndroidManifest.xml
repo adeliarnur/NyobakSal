@@ -34,14 +34,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.asus.nyobaksal.LoginActivity"
-            android:label="@string/title_activity_login" />
-        <activity
             android:name="com.example.asus.nyobaksal.buttonbuttom"
             android:label="@string/title_activity_buttonbuttom" />
         <activity android:name="com.example.asus.nyobaksal.SearchActivity" />
         <activity android:name="com.example.asus.nyobaksal.nwArrv" />
         <activity android:name="com.example.asus.nyobaksal.SignUp" />
+        <activity
+            android:name="com.example.asus.nyobaksal.LoginActivity2"
+            android:label="@string/title_activity_login2" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

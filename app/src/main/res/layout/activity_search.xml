@@ -1,52 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/backgroundpolos"
     tools:context="com.example.asus.nyobaksal.SearchActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <SearchView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </SearchView>
+    </ScrollView>
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
     <ImageButton
+        android:layout_weight="4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginLeft="2dp"
         android:layout_marginTop="238dp"
         android:background="#c3dae2"
         android:src="@drawable/homeyeay" />
 
     <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="2dp" />
-
-    <ImageButton
+        android:layout_weight="4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginLeft="2dp"
         android:layout_marginTop="238dp"
         android:background="#c3dae2"
         android:src="@drawable/shoppingcartyeay" />
 
     <ImageButton
+        android:layout_weight="4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginLeft="2dp"
         android:layout_marginTop="238dp"
         android:background="#c3dae2"
         android:src="@drawable/searchiconyeayrevisilagilagi" />
 
     <ImageButton
+        android:layout_weight="4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginLeft="2dp"
         android:layout_marginTop="238dp"
         android:background="#c3dae2"
         android:src="@drawable/accountyeay" />
 
-
+    </LinearLayout>
 </LinearLayout>

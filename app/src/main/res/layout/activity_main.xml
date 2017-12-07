@@ -8,24 +8,24 @@
     tools:context="com.example.asus.nyobaksal.MainActivity">
 
     <ImageButton
-        android:id="@+id/imageButton"
+        android:id="@+id/Login2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="39dp"
-        android:layout_marginTop="165dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="167dp"
         android:background="#c3dae2"
         android:src="@drawable/jasbfdqub" />
 
     <ImageButton
+        android:id="@+id/signup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/imageButton"
+        android:layout_alignBottom="@+id/Login2"
         android:layout_marginStart="44dp"
-        android:layout_toEndOf="@+id/imageButton"
+        android:layout_toEndOf="@+id/Login2"
         android:background="#c3dae2"
-        android:id="@+id/imageButton2"
         android:src="@drawable/signinyeay" />
 
 
