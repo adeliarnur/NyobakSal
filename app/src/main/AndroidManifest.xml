@@ -29,7 +29,9 @@
         <activity android:name=".SignUp" />
         <activity
             android:name=".LoginActivity2"
-            android:label="@string/title_activity_login2"></activity>
+            android:label="@string/title_activity_login2" />
+        <activity android:name=".ShoppingCart" />
+        <activity android:name=".SearchBrands"></activity>
     </application>
 
 </manifest>

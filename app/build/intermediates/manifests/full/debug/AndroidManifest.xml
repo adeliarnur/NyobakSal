@@ -41,6 +41,8 @@
         <activity
             android:name="com.example.asus.nyobaksal.LoginActivity2"
             android:label="@string/title_activity_login2" />
+        <activity android:name="com.example.asus.nyobaksal.ShoppingCart" />
+        <activity android:name="com.example.asus.nyobaksal.SearchBrands" />
     </application>
 
 </manifest>
