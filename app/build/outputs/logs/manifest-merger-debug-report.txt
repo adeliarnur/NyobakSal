@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-37:12
+ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
 MERGED from [com.android.support:design:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2dfc52c8cf1e52bf0e2ea274b4458608\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\9a69c858ed4109360fff10ee53b75e58\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0a7749ca7eb6459257d99783334497c1\AndroidManifest.xml:2:1-11:12
@@ -17,20 +17,20 @@ MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\asus\.gra
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\af8fd7824298e34dffc655836b96d1b8\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9e93bd3e016db7a9f320e327c9cff39f\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\70ec7b42123a563d90e4d14305583273\AndroidManifest.xml:17:1-31:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
 	package
 		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:3:5-41
 		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-37:12
+		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
 		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-37:12
+		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
 		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:11-69
@@ -47,7 +47,7 @@ ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidMan
 	android:name
 		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:8:22-69
 application
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:10:5-35:19
+ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:10:5-38:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2dfc52c8cf1e52bf0e2ea274b4458608\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:design:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2dfc52c8cf1e52bf0e2ea274b4458608\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\9a69c858ed4109360fff10ee53b75e58\AndroidManifest.xml:29:5-20
@@ -127,9 +127,21 @@ ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidMan
 	android:name
 		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:33:19-47
 activity#com.example.asus.nyobaksal.SearchBrands
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:34:9-59
+ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:34:9-50
 	android:name
 		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:34:19-47
+activity#com.example.asus.nyobaksal.SearchPencilAndPen
+ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:35:9-56
+	android:name
+		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:35:19-53
+activity#com.example.asus.nyobaksal.SearchNotebook
+ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:36:9-52
+	android:name
+		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:36:19-49
+activity#com.example.asus.nyobaksal.SearchPencilCase
+ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:37:9-63
+	android:name
+		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:37:19-51
 uses-sdk
 INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml

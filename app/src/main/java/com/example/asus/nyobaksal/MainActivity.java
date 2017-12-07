@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, LoginActivity2.class);
                 startActivity(intent);
-            }
+            }`
         });
 
         signUp = (ImageButton) findViewById(R.id.signup);

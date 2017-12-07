@@ -5,23 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/backgroundpolos"
-    tools:context="com.example.asus.nyobaksal.nwArrv">
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="40dp"
-        android:text="New Arrivals"
-        android:gravity="center"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:background="#c3dae2"
-        />
-    <ScrollView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
-
-    </ScrollView>
+    tools:context="com.example.asus.nyobaksal.SearchNotebook">
 
     <ImageButton
         android:id="@+id/iconhomeyeay"

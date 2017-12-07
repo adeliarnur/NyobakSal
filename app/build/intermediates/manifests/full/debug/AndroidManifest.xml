@@ -43,6 +43,9 @@
             android:label="@string/title_activity_login2" />
         <activity android:name="com.example.asus.nyobaksal.ShoppingCart" />
         <activity android:name="com.example.asus.nyobaksal.SearchBrands" />
+        <activity android:name="com.example.asus.nyobaksal.SearchPencilAndPen" />
+        <activity android:name="com.example.asus.nyobaksal.SearchNotebook" />
+        <activity android:name="com.example.asus.nyobaksal.SearchPencilCase" />
     </application>
 
 </manifest>
