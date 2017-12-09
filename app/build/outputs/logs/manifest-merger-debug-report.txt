@@ -1,214 +1,222 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
-MERGED from [com.android.support:design:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2dfc52c8cf1e52bf0e2ea274b4458608\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\9a69c858ed4109360fff10ee53b75e58\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0a7749ca7eb6459257d99783334497c1\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\263ce8f1593179dc8357a2b49302157a\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a88d2611c3cde344a5901628e3f77250\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4b5464ca1e47f27989d4dfb36894f00a\AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:transition:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\b30deeac73657a183f988c932477aab9\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a3343ac5def91601785fc67c7420f96d\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e3f80112f140eda7e72dc12e3dc0afd5\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f746d4d54f6d83e026d28be72224cb5f\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\af8fd7824298e34dffc655836b96d1b8\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9e93bd3e016db7a9f320e327c9cff39f\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\70ec7b42123a563d90e4d14305583273\AndroidManifest.xml:17:1-31:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\6e7e953804a32702642ea9d7846f9035\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5ff56318b5acb97aaae104e04bb7a13\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\29a1118fbc715f8be8f1857248626085\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f6253e5661f0d42bc73456b5b5fab3a1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\25e0c94874166334ceff06a145bdcabc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4b96ee0f4fa9708d4b565a5821cf88c1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3b90375dfdda8636ef396f9618dac6bd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\bc8f80a01728e51a5a70c08306b8a526\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d7d77fbbe16b8043d2613f9a62aa2921\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\accd547f3c1e82449bc17d6cccd2a1f2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\99268981581a6f079e02af68d85a88a0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\8c80cccf5a68f3c4ec87dbff303e9ce1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\63af53916262c49bd761c12a7a1fe3bc\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:2:1-42:12
 	package
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
+		INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
-		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
+		INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:1-40:12
-		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
+		INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:6:5-71
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:6:5-71
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:6:22-68
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:6:22-68
 uses-permission#android.permission.READ_PROFILE
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:7:5-71
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:7:5-71
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:7:22-68
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:7:22-68
 uses-permission#android.permission.READ_CONTACTS
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:8:5-72
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:8:5-72
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:8:22-69
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:8:22-69
 application
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:10:5-38:19
-MERGED from [com.android.support:design:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2dfc52c8cf1e52bf0e2ea274b4458608\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2dfc52c8cf1e52bf0e2ea274b4458608\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\9a69c858ed4109360fff10ee53b75e58\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\9a69c858ed4109360fff10ee53b75e58\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0a7749ca7eb6459257d99783334497c1\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0a7749ca7eb6459257d99783334497c1\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\263ce8f1593179dc8357a2b49302157a\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\263ce8f1593179dc8357a2b49302157a\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a88d2611c3cde344a5901628e3f77250\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a88d2611c3cde344a5901628e3f77250\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\b30deeac73657a183f988c932477aab9\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\b30deeac73657a183f988c932477aab9\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a3343ac5def91601785fc67c7420f96d\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a3343ac5def91601785fc67c7420f96d\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e3f80112f140eda7e72dc12e3dc0afd5\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e3f80112f140eda7e72dc12e3dc0afd5\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f746d4d54f6d83e026d28be72224cb5f\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f746d4d54f6d83e026d28be72224cb5f\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\af8fd7824298e34dffc655836b96d1b8\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\af8fd7824298e34dffc655836b96d1b8\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9e93bd3e016db7a9f320e327c9cff39f\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9e93bd3e016db7a9f320e327c9cff39f\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\70ec7b42123a563d90e4d14305583273\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\70ec7b42123a563d90e4d14305583273\AndroidManifest.xml:29:5-20
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:10:5-40:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\6e7e953804a32702642ea9d7846f9035\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\6e7e953804a32702642ea9d7846f9035\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5ff56318b5acb97aaae104e04bb7a13\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5ff56318b5acb97aaae104e04bb7a13\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\29a1118fbc715f8be8f1857248626085\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\29a1118fbc715f8be8f1857248626085\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f6253e5661f0d42bc73456b5b5fab3a1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f6253e5661f0d42bc73456b5b5fab3a1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\25e0c94874166334ceff06a145bdcabc\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\25e0c94874166334ceff06a145bdcabc\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3b90375dfdda8636ef396f9618dac6bd\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3b90375dfdda8636ef396f9618dac6bd\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\bc8f80a01728e51a5a70c08306b8a526\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\bc8f80a01728e51a5a70c08306b8a526\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d7d77fbbe16b8043d2613f9a62aa2921\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d7d77fbbe16b8043d2613f9a62aa2921\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\accd547f3c1e82449bc17d6cccd2a1f2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\accd547f3c1e82449bc17d6cccd2a1f2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\99268981581a6f079e02af68d85a88a0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\99268981581a6f079e02af68d85a88a0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\8c80cccf5a68f3c4ec87dbff303e9ce1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\8c80cccf5a68f3c4ec87dbff303e9ce1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\63af53916262c49bd761c12a7a1fe3bc\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\63af53916262c49bd761c12a7a1fe3bc\AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:16:9-40
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:16:9-40
 activity#com.example.asus.nyobaksal.MainActivity
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:17:9-23:20
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:17:19-47
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:17:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:21:27-74
 activity#com.example.asus.nyobaksal.buttonbuttom
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:24:9-26:67
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:24:9-26:67
 	android:label
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:26:13-64
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:26:13-64
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:25:13-41
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:25:13-41
 activity#com.example.asus.nyobaksal.SearchActivity
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:27:9-52
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:27:9-52
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:27:19-49
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:27:19-49
 activity#com.example.asus.nyobaksal.nwArrv
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:28:9-44
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:28:9-44
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:28:19-41
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:28:19-41
 activity#com.example.asus.nyobaksal.SignUp
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:29:9-44
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:29:9-44
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:29:19-41
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:29:19-41
 activity#com.example.asus.nyobaksal.LoginActivity2
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:30:9-32:61
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:30:9-32:61
 	android:label
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:32:13-58
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:32:13-58
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:31:13-43
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:31:13-43
 activity#com.example.asus.nyobaksal.ShoppingCart
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:33:9-50
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:33:9-50
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:33:19-47
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:33:19-47
 activity#com.example.asus.nyobaksal.SearchBrands
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:34:9-50
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:34:9-50
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:34:19-47
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:34:19-47
 activity#com.example.asus.nyobaksal.SearchPencilAndPen
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:35:9-56
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:35:9-56
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:35:19-53
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:35:19-53
 activity#com.example.asus.nyobaksal.SearchNotebook
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:36:9-52
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:36:9-52
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:36:19-49
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:36:19-49
 activity#com.example.asus.nyobaksal.SearchPencilCase
-ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:37:9-63
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:37:9-54
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml:37:19-51
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:37:19-51
+activity#com.example.asus.nyobaksal.SearchEraser
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:38:9-50
+	android:name
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:38:19-47
+activity#com.example.asus.nyobaksal.SearchStickyNote
+ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:39:9-63
+	android:name
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml:39:19-51
 uses-sdk
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2dfc52c8cf1e52bf0e2ea274b4458608\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2dfc52c8cf1e52bf0e2ea274b4458608\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\9a69c858ed4109360fff10ee53b75e58\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\9a69c858ed4109360fff10ee53b75e58\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0a7749ca7eb6459257d99783334497c1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0a7749ca7eb6459257d99783334497c1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\263ce8f1593179dc8357a2b49302157a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\263ce8f1593179dc8357a2b49302157a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a88d2611c3cde344a5901628e3f77250\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a88d2611c3cde344a5901628e3f77250\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4b5464ca1e47f27989d4dfb36894f00a\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4b5464ca1e47f27989d4dfb36894f00a\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\b30deeac73657a183f988c932477aab9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\b30deeac73657a183f988c932477aab9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a3343ac5def91601785fc67c7420f96d\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a3343ac5def91601785fc67c7420f96d\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e3f80112f140eda7e72dc12e3dc0afd5\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e3f80112f140eda7e72dc12e3dc0afd5\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f746d4d54f6d83e026d28be72224cb5f\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f746d4d54f6d83e026d28be72224cb5f\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\af8fd7824298e34dffc655836b96d1b8\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\af8fd7824298e34dffc655836b96d1b8\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9e93bd3e016db7a9f320e327c9cff39f\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9e93bd3e016db7a9f320e327c9cff39f\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\70ec7b42123a563d90e4d14305583273\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\70ec7b42123a563d90e4d14305583273\AndroidManifest.xml:21:5-23:58
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
+INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
+INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\6e7e953804a32702642ea9d7846f9035\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\6e7e953804a32702642ea9d7846f9035\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5ff56318b5acb97aaae104e04bb7a13\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5ff56318b5acb97aaae104e04bb7a13\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\29a1118fbc715f8be8f1857248626085\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\29a1118fbc715f8be8f1857248626085\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f6253e5661f0d42bc73456b5b5fab3a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f6253e5661f0d42bc73456b5b5fab3a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\25e0c94874166334ceff06a145bdcabc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\25e0c94874166334ceff06a145bdcabc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4b96ee0f4fa9708d4b565a5821cf88c1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4b96ee0f4fa9708d4b565a5821cf88c1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3b90375dfdda8636ef396f9618dac6bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3b90375dfdda8636ef396f9618dac6bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\bc8f80a01728e51a5a70c08306b8a526\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\bc8f80a01728e51a5a70c08306b8a526\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d7d77fbbe16b8043d2613f9a62aa2921\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d7d77fbbe16b8043d2613f9a62aa2921\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\accd547f3c1e82449bc17d6cccd2a1f2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\accd547f3c1e82449bc17d6cccd2a1f2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\99268981581a6f079e02af68d85a88a0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\99268981581a6f079e02af68d85a88a0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\8c80cccf5a68f3c4ec87dbff303e9ce1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\8c80cccf5a68f3c4ec87dbff303e9ce1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\63af53916262c49bd761c12a7a1fe3bc\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\63af53916262c49bd761c12a7a1fe3bc\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
+INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2dfc52c8cf1e52bf0e2ea274b4458608\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\6e7e953804a32702642ea9d7846f9035\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
+		INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
+		INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\asus\AndroidStudioProjects\NyobakSal\app\src\main\AndroidManifest.xml
+		INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
+		ADDED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
+		INJECTED from D:\!!! KULIAH\Semester 3\Rekayasa Perangkat Lunak\NyobakSal\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2dfc52c8cf1e52bf0e2ea274b4458608\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\9a69c858ed4109360fff10ee53b75e58\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\9a69c858ed4109360fff10ee53b75e58\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\263ce8f1593179dc8357a2b49302157a\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\263ce8f1593179dc8357a2b49302157a\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a88d2611c3cde344a5901628e3f77250\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a88d2611c3cde344a5901628e3f77250\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4b5464ca1e47f27989d4dfb36894f00a\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4b5464ca1e47f27989d4dfb36894f00a\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\b30deeac73657a183f988c932477aab9\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\b30deeac73657a183f988c932477aab9\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a3343ac5def91601785fc67c7420f96d\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a3343ac5def91601785fc67c7420f96d\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e3f80112f140eda7e72dc12e3dc0afd5\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e3f80112f140eda7e72dc12e3dc0afd5\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f746d4d54f6d83e026d28be72224cb5f\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f746d4d54f6d83e026d28be72224cb5f\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\af8fd7824298e34dffc655836b96d1b8\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\af8fd7824298e34dffc655836b96d1b8\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9e93bd3e016db7a9f320e327c9cff39f\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9e93bd3e016db7a9f320e327c9cff39f\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\70ec7b42123a563d90e4d14305583273\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\70ec7b42123a563d90e4d14305583273\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\6e7e953804a32702642ea9d7846f9035\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5ff56318b5acb97aaae104e04bb7a13\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5ff56318b5acb97aaae104e04bb7a13\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f6253e5661f0d42bc73456b5b5fab3a1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f6253e5661f0d42bc73456b5b5fab3a1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\25e0c94874166334ceff06a145bdcabc\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\25e0c94874166334ceff06a145bdcabc\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4b96ee0f4fa9708d4b565a5821cf88c1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4b96ee0f4fa9708d4b565a5821cf88c1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3b90375dfdda8636ef396f9618dac6bd\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3b90375dfdda8636ef396f9618dac6bd\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\bc8f80a01728e51a5a70c08306b8a526\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\bc8f80a01728e51a5a70c08306b8a526\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d7d77fbbe16b8043d2613f9a62aa2921\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d7d77fbbe16b8043d2613f9a62aa2921\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\accd547f3c1e82449bc17d6cccd2a1f2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\accd547f3c1e82449bc17d6cccd2a1f2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\99268981581a6f079e02af68d85a88a0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\99268981581a6f079e02af68d85a88a0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\8c80cccf5a68f3c4ec87dbff303e9ce1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\8c80cccf5a68f3c4ec87dbff303e9ce1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\63af53916262c49bd761c12a7a1fe3bc\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\63af53916262c49bd761c12a7a1fe3bc\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2dfc52c8cf1e52bf0e2ea274b4458608\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\6e7e953804a32702642ea9d7846f9035\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2dfc52c8cf1e52bf0e2ea274b4458608\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ASUS-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\6e7e953804a32702642ea9d7846f9035\AndroidManifest.xml:26:9-47

@@ -6,41 +6,74 @@
     android:layout_height="match_parent"
     android:background="@drawable/backgroundpolos"
     tools:context="com.example.asus.nyobaksal.SearchPencilCase">
-
     <ImageButton
         android:id="@+id/iconhomeyeay"
-        android:layout_width="90dp"
+        android:layout_width="100dp"
         android:layout_height="90dp"
-        android:layout_weight="4"
+
         android:src="@drawable/homeyeay"
-        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="481dp" />
 
     <ImageButton
         android:id="@+id/iconshoppingcartyeay"
-        android:layout_width="90dp"
+        android:layout_width="100dp"
         android:layout_height="90dp"
-        android:layout_weight="4"
         android:src="@drawable/shoppingcartyeay"
-        tools:layout_editor_absoluteX="102dp"
+        tools:layout_editor_absoluteX="94dp"
         tools:layout_editor_absoluteY="481dp" />
 
     <ImageButton
         android:id="@+id/searchrev"
-        android:layout_width="90dp"
+        android:layout_width="100dp"
         android:layout_height="90dp"
-        android:layout_weight="4"
         android:src="@drawable/searchiconyeayrevisilagilagi"
-        tools:layout_editor_absoluteX="199dp"
+        tools:layout_editor_absoluteX="190dp"
         tools:layout_editor_absoluteY="481dp" />
 
     <ImageButton
         android:id="@+id/iconaccountyeay"
-        android:layout_width="90dp"
+        android:layout_width="100dp"
         android:layout_height="90dp"
-        android:layout_weight="4"
         android:src="@drawable/accountyeay"
-        tools:layout_editor_absoluteX="299dp"
+        tools:layout_editor_absoluteX="286dp"
         tools:layout_editor_absoluteY="481dp" />
+
+    <ImageButton
+        android:id="@+id/iconcutenekopencilcaseyeay"
+        android:layout_width="205dp"
+        android:layout_height="190dp"
+        android:background="#c3dae2"
+        android:src="@drawable/cutenekopencilcaserevisilagiyeay"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="4dp" />
+
+    <ImageButton
+        android:id="@+id/iconclassicblackandwhitepuleatherpencilcaseyeay"
+        android:layout_width="199dp"
+        android:layout_height="182dp"
+        android:background="#c3dae2"
+        android:src="@drawable/classicblackandwhitepuleatherpencilcaserevisilagiyeay"
+        tools:layout_editor_absoluteX="181dp"
+        tools:layout_editor_absoluteY="58dp" />
+
+    <ImageButton
+        android:id="@+id/iconfruitshapedleatherpencilcaseyeay"
+        android:layout_width="205dp"
+        android:layout_height="190dp"
+        android:background="#c3dae2"
+        android:src="@drawable/fruitshapedleatherpencilcaserevisilagiyeay"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="219dp" />
+
+    <ImageButton
+
+        android:layout_width="205dp"
+        android:layout_height="190dp"
+        android:background="#c3dae2"
+        android:src="@drawable/fruitshapedleatherpencilcaserevisilagiyeay"
+        tools:layout_editor_absoluteX="181dp"
+        tools:layout_editor_absoluteY="274dp" />
+
 
 </android.support.constraint.ConstraintLayout>

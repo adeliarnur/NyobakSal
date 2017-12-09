@@ -3,6 +3,7 @@ package com.example.asus.nyobaksal;
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.annotation.TargetApi;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.support.annotation.NonNull;
 import android.support.design.widget.Snackbar;
@@ -27,6 +28,7 @@ import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -38,7 +40,7 @@ import static android.Manifest.permission.READ_CONTACTS;
  * A login screen that offers login via email/password.
  */
 public class LoginActivity2 extends AppCompatActivity{
-
+ImageButton lgn;
     /**
      * Id to identity READ_CONTACTS permission request.
      */
@@ -47,5 +49,14 @@ public class LoginActivity2 extends AppCompatActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login2);
         // Set up the login form.
+
+        lgn = (ImageButton)findViewById(R.id.Login2);
+        lgn.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(LoginActivity2.this, nwArrv.class);
+                startActivity(intent);
+            }
+        });
     }
 }

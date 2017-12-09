@@ -34,7 +34,9 @@
         <activity android:name=".SearchBrands" />
         <activity android:name=".SearchPencilAndPen" />
         <activity android:name=".SearchNotebook" />
-        <activity android:name=".SearchPencilCase"></activity>
+        <activity android:name=".SearchPencilCase" />
+        <activity android:name=".SearchEraser" />
+        <activity android:name=".SearchStickyNote"></activity>
     </application>
 
 </manifest>
